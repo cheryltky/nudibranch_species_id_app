@@ -1,0 +1,162 @@
+[
+  {
+    "genus": "Chromodoris",
+    "species": "willani",
+    "common_name": "Willan's Chromodoris",
+    "description": "A striking blue nudibranch with yellow-orange spots and a white border.",
+    "features": [
+      "blue body",
+      "yellow spots",
+      "white border"
+    ],
+    "habitat": "Indo-Pacific coral reefs",
+    "similar_species": [
+      "Chromodoris lochi",
+      "Chromodoris annae"
+    ]
+  },
+  {
+    "genus": "Hypselodoris",
+    "species": "bullocki",
+    "common_name": "Bullock's Hypselodoris",
+    "description": "Deep blue body with yellow lines and orange gill plumes.",
+    "features": [
+      "blue body",
+      "yellow lines",
+      "orange gills"
+    ],
+    "habitat": "Indo-Pacific coral reefs",
+    "similar_species": [
+      "Hypselodoris apolegma",
+      "Hypselodoris cerisae"
+    ]
+  },
+  {
+    "genus": "Flabellina",
+    "species": "iodinea",
+    "common_name": "Spanish Shawl",
+    "description": "Vibrant purple body with orange cerata.",
+    "features": [
+      "purple body",
+      "orange tentacles",
+      "orange cerata"
+    ],
+    "habitat": "Eastern Pacific",
+    "similar_species": [
+      "Flabellina exoptata",
+      "Flabellina rubrolineata"
+    ]
+  },
+  {
+    "genus": "Nembrotha",
+    "species": "kubaryana",
+    "common_name": "Variable Nembrotha",
+    "description": "Black body with green or yellow markings and rhinophores.",
+    "features": [
+      "black body",
+      "green markings",
+      "green rhinophores"
+    ],
+    "habitat": "Indo-Pacific coral reefs",
+    "similar_species": [
+      "Nembrotha cristata",
+      "Nembrotha livingstonei"
+    ]
+  },
+  {
+    "genus": "Glossodoris",
+    "species": "atromarginata",
+    "common_name": "Black-margined Glossodoris",
+    "description": "Cream to yellow body with distinct black mantle border.",
+    "features": [
+      "cream body",
+      "black border",
+      "yellow gills"
+    ],
+    "habitat": "Indo-Pacific coral reefs",
+    "similar_species": [
+      "Glossodoris cincta",
+      "Glossodoris pallida"
+    ]
+  },
+  {
+    "genus": "Tambja",
+    "species": "verconis",
+    "common_name": "Verco's Tambja",
+    "description": "Green to blue-green body with yellow or orange spots.",
+    "features": [
+      "green body",
+      "yellow spots",
+      "blue lines"
+    ],
+    "habitat": "Southern Australia",
+    "similar_species": [
+      "Tambja morosa",
+      "Tambja capensis"
+    ]
+  },
+  {
+    "genus": "Ceratosoma",
+    "species": "amoenum",
+    "common_name": "Ornate Ceratosoma",
+    "description": "Cream body with purple spots and distinctive dorsal horn.",
+    "features": [
+      "cream body",
+      "purple spots",
+      "dorsal horn"
+    ],
+    "habitat": "Western Pacific and Indian Ocean",
+    "similar_species": [
+      "Ceratosoma trilobatum",
+      "Ceratosoma tenue"
+    ]
+  },
+  {
+    "genus": "Phyllidia",
+    "species": "varicosa",
+    "common_name": "Varicose Phyllidia",
+    "description": "Black body with blue or blue-gray tubercles and yellow lines.",
+    "features": [
+      "black body",
+      "blue tubercles",
+      "yellow lines"
+    ],
+    "habitat": "Indo-Pacific coral reefs",
+    "similar_species": [
+      "Phyllidia ocellata",
+      "Phyllidia coelestis"
+    ]
+  },
+  {
+    "genus": "Goniobranchus",
+    "species": "splendidus",
+    "common_name": "Splendid Chromodoris",
+    "description": "White body with red spots surrounded by yellow rings.",
+    "features": [
+      "white body",
+      "red spots",
+      "yellow rings"
+    ],
+    "habitat": "Western Pacific",
+    "similar_species": [
+      "Goniobranchus kuniei",
+      "Goniobranchus tinctorius"
+    ]
+  },
+  {
+    "genus": "Berghia",
+    "species": "coerulescens",
+    "common_name": "Blue Berghia",
+    "description": "Translucent white body with blue cerata tips.",
+    "features": [
+      "white body",
+      "blue cerata",
+      "orange rhinophores"
+    ],
+    "habitat": "Mediterranean and Eastern Atlantic",
+    "similar_species": [
+      "Berghia verrucicornis",
+      "Berghia stephanieae"
+    ]
+  }
+]
