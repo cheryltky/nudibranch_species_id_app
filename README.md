@@ -1,9 +1,9 @@
-# Simplified Nudibranch Species Identifier
+# Nudibranch Species ID App
 
 This project creates an end-to-end application for identifying nudibranch species from images. The app uses TensorFlow for model training and TensorFlow.js for browser-based inference.
 
-🪸 **Nudibranch ID Stack**
-Built with modern AI and web technologies, this application combines the power of TensorFlow's ecosystem with a sleek web interface. Here's what's under the hood:
+🪸 **Nudibranch ID Tech Stack**
+This application combines:
 -  **Model**: Pre-trained MobileNetV2 for feature extraction
 -  **Backend**: Python with TensorFlow and TensorFlow Hub
 -  **Frontend**: Clean HTML/JS interface with real-time processing
